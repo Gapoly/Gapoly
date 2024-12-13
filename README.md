@@ -1,10 +1,5 @@
-# Whoami 🖲️
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+# Whoami 🖲️ 
   
-
 ### <div align="center">I'm Gλmix, a 🇨🇵 french IT student specializing in System & Networking</div>  
   
 
@@ -17,16 +12,17 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ⚡ Fun fact: I use tabs over spaces
 
-<br/>  
 
+###
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### System  
 <div align="center">  
@@ -44,7 +40,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Network  
@@ -75,8 +70,4 @@
 
 <br/>  
 
-###
 
-<img src="https://raw.githubusercontent.com/Gapoly/Gapoly/output/snake.svg" alt="Snake animation" />
-
-###
