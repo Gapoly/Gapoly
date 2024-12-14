@@ -14,7 +14,7 @@
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" alt="AWS" height="50" /></a>  
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://elpuig.xeill.net/Members/vcarceler/articulos/ansible/Ansible_logo.svg.png/@@images/91bf27d2-4ecb-46fa-ab91-ff62696b9109.png" alt="Ansible" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://logodownload.org/wp-content/uploads/2018/02/raspberry-pi-logo-2.png"alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="Docker" height="50" /></a>  
