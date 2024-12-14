@@ -7,13 +7,6 @@
 
 - To complete
 
-
-###
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-###
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -36,7 +29,8 @@
 ### Network  
 <div align="center">  
 <a href="https://www.arubanetworks.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/A/aruba-networks-logo-E96A09DBDA-seeklogo.com.png" alt="Aruba" height="50" /></a>
-<a href="https://www.cisco.com/" target="_blank"><img style="margin: 10px" src="https://logo-logos.com/2016/10/Cisco_logo.png" alt="Azure" height="50" /></a> 
+<a href="https://www.cisco.com/" target="_blank"><img style="margin: 10px" src="https://logo-logos.com/2016/10/Cisco_logo.png" alt="Azure" height="50" /></a>
+<a href="https://www.stormshield.com/" target="_blank"><img style="margin: 10px" src="https://mbpscabling.com/images/partnerslogo/Stormshield.png" alt="Stormshield" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -56,7 +50,7 @@
 
 <br/>  
 
-<br/>  
+
 
 
 ## Github Stats  
