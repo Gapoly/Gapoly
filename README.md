@@ -10,16 +10,9 @@
 ```  
   
 - 🇨🇵 **French IT student, specializing in System & Networking.**
-- **Specializes in System & Networking**
-- **Recently started scripting in Python**
-- **Not a dev**
-
-
-###
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-###
+- 🖥️ **Specializes in System & Networking**
+- 🐍 **Recently started scripting in Python**
+- 🚫 **Not a programmer**
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -61,10 +54,11 @@
 
 </td></tr></table>  
 
-<br/>  
+###
 
-<br/>  
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
+###
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gapoly&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
