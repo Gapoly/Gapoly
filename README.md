@@ -1,4 +1,4 @@
-# Whoami 🖲️ 
+# 🖲️ Whoami  
 
 ```
     __________   ___     .___  ___.  __  ___   ___
@@ -14,7 +14,7 @@
 - 🐍 **Recently started scripting in Python**
 - 🚫 **Not a programmer**
 
-## My Skill Set  
+## 💻️ My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### System  
@@ -60,8 +60,17 @@
 
 ###
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gapoly&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## ⚡ Stats
+
+<img  src="https://github-readme-stats.vercel.app/api?username=gapoly&show_icons=true&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gapoly&hide=javascript,html"/>
+
+</br></br>
+
+</div>
+
+
 
 <br/>  
 
