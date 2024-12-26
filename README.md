@@ -10,7 +10,7 @@
 ```  
   
 - 🇨🇵 **French IT student, specializing in System & Networking.**
-- 🖥️ **Specializes in System & Networking**
+- 🖥️ **Specializes in System Administration & Networking**
 - 🐍 **Recently started scripting in Python**
 - 🚫 **Not a programmer**
 
