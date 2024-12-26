@@ -56,6 +56,7 @@
 
 ## ⚡ Stats
 
-<img  src="https://github-readme-stats.vercel.app/api?username=gapoly&show_icons=true&theme=radical"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gapoly&hide=javascript,html&theme=radical"/>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=gapoly&show_icons=true&theme=radical" alt="Stats GitHub" style="height: 250px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gapoly&hide=javascript,html&theme=radical" alt="Langues principales" style="height: 250px;">
+</div>
