@@ -1,14 +1,7 @@
-# 🖲️ Whoami  
+# 🌙 Whoami  
 
-```
-    __________   ___     .___  ___.  __  ___   ___
-   /  _____\  \  \  \    |   \/   | |  | \  \ /  /
-  |  |  __  \  \  \  \   |  \  /  | |  |  \  V  / 
-  |  | |_ |  \  \  \  \  |  |\/|  | |  |   >   <  
-  |  |__| |   \  \  \  \ |  |  |  | |  |  /  .  \ 
-   \______|    \__\  \__\|__|  |__| |__| /__/ \__\
-```  
-  
+![Logo de Markdown](https://github.com/Gapoly/Gapoly/blob/main/ressources/Gamix.png)
+
 - 🇨🇵 **French IT student, specializing in System & Networking.**
 - 🖥️ **Specializes in System Administration & Networking**
 - 🐍 **Recently started scripting in Python**
