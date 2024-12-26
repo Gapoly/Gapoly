@@ -58,14 +58,4 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=gapoly&show_icons=true&theme=radical"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gapoly&hide=javascript,html"/>
-
-</br></br>
-
-</div>
-
-
-
-<br/>  
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gapoly&hide=javascript,html&theme=radical"/>
