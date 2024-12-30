@@ -4,7 +4,7 @@
 
 - 🇨🇵 **French IT student, specializing in System Administration & Networking.**
 - 🖥️ **Specializes in System Administration & Networking**
-- 🐍 **Recently started scripting in Python**
+- 🐍 **I like to script in Python and Shell (Powershell, not so much)**
 - 🖲️ **I f*cking love trackballs** 
 - 🚫 **Not a programmer**
 
