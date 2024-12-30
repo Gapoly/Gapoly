@@ -2,7 +2,7 @@
 
 ![Logo de Markdown](https://github.com/Gapoly/Gapoly/blob/main/ressources/Gamix.png)
 
-- 🇨🇵 **French IT student, specializing in System Administration & Networking.**
+- 🇨🇵 **French IT student.**
 - 🖥️ **Specializes in System Administration & Networking**
 - 🐍 **I like to script in Python and Shell (Powershell, not so much)**
 - 🖲️ **I f*cking love trackballs** 
