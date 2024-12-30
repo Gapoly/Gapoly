@@ -16,8 +16,7 @@
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Gapoly/Gapoly/blob/main/logos/mariadb.png" alt="Maria DB" height="50" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/844/PNG/512/AWS_icon-icons.com_67084.png" alt="AWS" height="50" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://elpuig.xeill.net/Members/vcarceler/articulos/ansible/Ansible_logo.svg.png/@@images/91bf27d2-4ecb-46fa-ab91-ff62696b9109.png" alt="Ansible" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://logodownload.org/wp-content/uploads/2018/02/raspberry-pi-logo-2.png"alt="Raspberry Pi" height="50" /></a>  
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://elpuig.xeill.net/Members/vcarceler/articulos/ansible/Ansible_logo.svg.png/@@images/91bf27d2-4ecb-46fa-ab91-ff62696b9109.png" alt="Ansible" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="Docker" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure" height="50" /></a>  
