@@ -29,7 +29,7 @@
 
 ### Network  
 <div align="center">  
-<a href="https://www.arubanetworks.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/A/aruba-networks-logo-E96A09DBDA-seeklogo.com.png" alt="Aruba" height="50" /></a>
+<a href="https://www.arubanetworks.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Gapoly/Gapoly/blob/main/logos/aruba.png" alt="Aruba" height="50" /></a>
 <a href="https://www.stormshield.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Gapoly/Gapoly/blob/main/logos/stormshield.png" alt="Stormshield" height="50" /></a>
 <a href="https://www.pfsense.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Gapoly/Gapoly/blob/main/logos/pfsense.png" alt="pfSense" height="50" /></a>
 <a href="https://www.cisco.com/" target="_blank"><img style="margin: 10px" src="https://logo-logos.com/2016/10/Cisco_logo.png" alt="Azure" height="50" /></a> 
