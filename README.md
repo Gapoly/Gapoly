@@ -5,7 +5,7 @@
 - 🇨🇵 **French IT student**
 - 🖥️ **Specializes in System Administration & Networking**
 - 🐍 **I like to script in Python and Shell (Powershell, not so much)**
-- 🖲️ **I f*cking love trackballs** 
+- 🖲️ **Trackball enjoyer** 
 - 🚫 **Not a programmer**
 
 ## 💻️ My Skill Set  
