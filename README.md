@@ -3,8 +3,9 @@
 ![Logo de Markdown](https://github.com/Gapoly/Gapoly/blob/main/ressources/Gamix.png)
 
 - 🇨🇵 **French IT student**
-- 🖥️ **Specializes in System Administration & Networking**
-- 🐍 **I like to script in Python and Shell (Powershell, not so much)**
+- 🖥️ **Works in System Administration & Networking**
+- 🐍 **I like to script in Python and Shell**
+- 🏠️ **Homelab is my hobby. My main techs are Proxmox VE, TrueNAS CE and OPNsense**
 - 🖲️ **Trackball enjoyer** 
 - 🚫 **Not a programmer**
 
@@ -14,29 +15,23 @@
 ### System  
 <div align="center">  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.microsoft.com/en-us/windows-server/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Windows Server" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://static.vecteezy.com/system/resources/previews/016/460/767/original/linux-os-logo-top-operating-system-signs-free-png.png" alt="Linux" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="Docker" height="50" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/amazon-web-services.png" alt="AWS" height="50" /></a>  
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://elpuig.xeill.net/Members/vcarceler/articulos/ansible/Ansible_logo.svg.png/@@images/91bf27d2-4ecb-46fa-ab91-ff62696b9109.png" alt="Ansible" height="50" /></a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure" height="50" /></a>
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Gapoly/Gapoly/blob/main/logos/mariadb.png" alt="Maria DB" height="50" /></a> 
-  
+<a href="https://www.microsoft.com/en-us/windows-server/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Windows Server" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
-
 
 ### Network  
 <div align="center">  
-<a href="https://www.arubanetworks.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Gapoly/Gapoly/blob/main/logos/aruba.png" alt="Aruba" height="50" /></a>
-<a href="https://www.stormshield.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Gapoly/Gapoly/blob/main/logos/stormshield.png" alt="Stormshield" height="50" /></a>
 <a href="https://www.pfsense.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Gapoly/Gapoly/blob/main/logos/pfsense.png" alt="pfSense" height="50" /></a>
-<a href="https://www.cisco.com/" target="_blank"><img style="margin: 10px" src="https://logo-logos.com/2016/10/Cisco_logo.png" alt="Azure" height="50" /></a> 
+<a href="https://opnsense.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opnsense.svg" alt="OPNsense" height="50" /></a>
+<a href="https://www.arubanetworks.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Gapoly/Gapoly/blob/main/logos/aruba.png" alt="Aruba" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
-
 
 ### Scripting
 <div align="center">
