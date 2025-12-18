@@ -7,7 +7,7 @@
 - 🐍 **I like to script in Python and Shell**
 - 🏠️ **Homelab is my hobby. My main techs are Proxmox VE, TrueNAS CE and OPNsense**
 - 🖲️ **Trackball enjoyer** 
-- 🚫 **Not a programmer**
+- 🚫 **Bad at coding**
 
 ## 💻️ My Skill Set  
 <table><tr><td valign="top" width="33%">
