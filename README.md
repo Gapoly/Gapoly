@@ -9,6 +9,17 @@
 - 🖲️ **Trackball enjoyer** 
 - 🚫 **Bad at coding**
 
+New skills I want to learn or currently learning :
+
+- Packer / Cloud-Init
+- Terraform / OpenTofu
+- Ansible
+- Secret Management
+- Kubernetes / Docker Swarm
+- Python scripting
+- Bash scripting
+- Rust
+
 ## 💻️ My Skill Set  
 <table><tr><td valign="top" width="33%">
 
