@@ -53,7 +53,22 @@ New skills I want to learn or currently learning :
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
 </div>
 
-</td></tr></table> 
+</td></tr></table>
+
+## 🧰 My Homelab
+<table><tr><td valign="top" width="100%">
+
+### System  
+<div align="center">  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://static.vecteezy.com/system/resources/previews/016/460/767/original/linux-os-logo-top-operating-system-signs-free-png.png" alt="Linux" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="Docker" height="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/amazon-web-services.png" alt="AWS" height="50" /></a>  
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://elpuig.xeill.net/Members/vcarceler/articulos/ansible/Ansible_logo.svg.png/@@images/91bf27d2-4ecb-46fa-ab91-ff62696b9109.png" alt="Ansible" height="50" /></a>
+<a href="https://www.microsoft.com/en-us/windows-server/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Windows Server" height="50" /></a>  
+</div>
+
+</td></tr></table>
 
 ###
 
