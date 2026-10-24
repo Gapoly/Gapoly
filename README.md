@@ -11,9 +11,11 @@
 
 New skills I want to learn or currently learning :
 
-- Packer / Cloud-Init
+- Packer
+- Cloud-Init
 - Terraform / OpenTofu
 - Ansible
+- CI/CD
 - Secret Management
 - Kubernetes / Docker Swarm
 - Python scripting
