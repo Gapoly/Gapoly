@@ -1,6 +1,6 @@
 # 🌙 Whoami
 
-<img src="https://raw.githubusercontent.com/Gapoly/Gapoly/main/ressources/Gamix.png" alt="Gamix logo" width="200" />
+<img src="https://raw.githubusercontent.com/Gapoly/Gapoly/main/ressources/Gamix.png" alt="Gamix logo" width="100%" />
 
 - 🇫🇷 **French IT student**
 - 🖥️ **Works in system administration & networking**
@@ -78,6 +78,8 @@
 <a href="https://www.ansible.com/"><img src="https://elpuig.xeill.net/Members/vcarceler/articulos/ansible/Ansible_logo.svg.png/@@images/91bf27d2-4ecb-46fa-ab91-ff62696b9109.png" alt="Ansible" height="50" /></a>
 <a href="https://cloud-init.io/"><img src="logos/cloud-init.svg" alt="Cloud-Init" height="50" /></a>
 </div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Divider" width="100%" />
 
