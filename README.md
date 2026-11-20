@@ -12,15 +12,9 @@
 ## 📚 Currently learning
 
 - Packer
-- Cloud-Init
-- Terraform / OpenTofu
-- Ansible
-- CI/CD
-- Secret management
 - Kubernetes / Docker Swarm
 - Python scripting
 - Bash scripting
-- Rust
 
 ## 💻 My skill set
 
